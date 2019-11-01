@@ -1,0 +1,6 @@
+D:\IdeWorkpase\imooc\imooc-ad-springcloud\imooc-ad-service\ad-common\src\main\java\com\imooc\ad\advice\CommonResponseDataAdvice.java
+D:\IdeWorkpase\imooc\imooc-ad-springcloud\imooc-ad-service\ad-common\src\main\java\com\imooc\ad\vo\CommonResponse.java
+D:\IdeWorkpase\imooc\imooc-ad-springcloud\imooc-ad-service\ad-common\src\main\java\com\imooc\ad\advice\GlobalExceptionAdvice.java
+D:\IdeWorkpase\imooc\imooc-ad-springcloud\imooc-ad-service\ad-common\src\main\java\com\imooc\ad\conf\WebConfiguration.java
+D:\IdeWorkpase\imooc\imooc-ad-springcloud\imooc-ad-service\ad-common\src\main\java\com\imooc\ad\annotation\IgnoreResponseAdvice.java
+D:\IdeWorkpase\imooc\imooc-ad-springcloud\imooc-ad-service\ad-common\src\main\java\com\imooc\ad\exception\AdException.java
